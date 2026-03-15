@@ -11,3 +11,6 @@ This file decides to run which layout based on the screen pixels. For example, i
 
 ## 4. spaced_flex.dart
 Provides constant spacing between elements than are in a column or in a row. You only need to set the constant spacing between elements once.
+
+## 5. cursor folder (containing 4 files)
+Customized mouse cursor with "comet style" dragging effect.
