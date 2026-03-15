@@ -14,3 +14,6 @@ This file decides to run which layout based on the screen pixels. For example, i
 
 Provides constant spacing between elements than are in a column or in a row. You only need to set the constant spacing between elements once.
 
+5. cursor folder
+
+Customized mouse cursor with "comet style" dragging effect.
