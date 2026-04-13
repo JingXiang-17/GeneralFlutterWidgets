@@ -17,3 +17,7 @@ Provides constant spacing between elements than are in a column or in a row. You
 5. cursor folder
 
 Customized mouse cursor with "comet style" dragging effect.
+
+6. dynamic_line_chart.dart
+
+To implement a dynamic chart in the app.
